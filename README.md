@@ -2,10 +2,10 @@
 ---
 
 ### Categories
-* [Linux](#javascript)
+* [Linux](#linux)
 
 ---
 
 ### Linux
 
-- [dd command](javascript/dd_command.md)
+- [dd command](linux/dd_command.md)
