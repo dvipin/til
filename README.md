@@ -6,6 +6,6 @@
 
 ---
 
-### JavaScript
+### Linux
 
-- [Simulating an API call](javascript/simulating-an-api-call.md)
+- [dd command](javascript/dd_command.md)
