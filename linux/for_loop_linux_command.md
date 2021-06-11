@@ -1,1 +1,1 @@
-for i in {1..10}; do <blah>; done
+for i in {1..10}; do *blah*; done
