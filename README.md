@@ -14,6 +14,8 @@
 
 - [gcc_or_cmake_options](linux/gcc_commands.md)
 
+- [swap space](linux/swap_space.md)
+
 ### Git
 
 - [delete branches](git/delete_branch.md) 
